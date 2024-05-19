@@ -31,9 +31,9 @@ The Online Bookstore is a Python-based web application that allows users to regi
 ### Installation
 
 1. **Clone the Repository**:
-   git clone https://github.com/ashkar99/Simple-Online-Book-Store.git
-   cd Simple-Onlline-Book-Store
-   
+   - git clone https://github.com/ashkar99/Simple-Online-Book-Store.git
+   - cd Simple-Onlline-Book-Store
+    
 
 2. **Install Required Python Packages**:
     pip install mysql-connector-python
@@ -57,3 +57,4 @@ The Online Bookstore is a Python-based web application that allows users to regi
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 ## License
+[License here](https://github.com/ashkar99/Simple-Online-Book-Store/blob/main/LICENSE)
