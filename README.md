@@ -36,7 +36,7 @@ The Online Bookstore is a Python-based web application that allows users to regi
     
 
 2. **Install Required Python Packages**:
-    pip install mysql-connector-python
+    - pip install mysql-connector-python
 
 3. **Setup MySQL Database**:
     - Create a new database in MySQL.
